@@ -1,5 +1,5 @@
 # Trapbot-Extended
-A discord bot I created for fun in 10th grade to use with my friends.
+A Discord Bot with fun features!
 
 Features include:
 - Generate random quotes, jokes, facts, and activities
